@@ -1,4 +1,4 @@
-# vite-react-ts-extended [![Typecheck](https://github.com/laststance/vite-react-ts-extended/actions/workflows/typecheck.yml/badge.svg)](https://github.com/laststance/vite-react-ts-extended/actions/workflows/typecheck.yml) [![Test](https://github.com/laststance/vite-react-ts-extended/actions/workflows/test.yml/badge.svg)](https://github.com/laststance/vite-react-ts-extended/actions/workflows/test.yml) [![Build](https://github.com/laststance/vite-react-ts-extended/actions/workflows/build.yml/badge.svg)](https://github.com/laststance/vite-react-ts-extended/actions/workflows/build.yml) [![Lint](https://github.com/laststance/vite-react-ts-extended/actions/workflows/lint.yml/badge.svg)](https://github.com/laststance/vite-react-ts-extended/actions/workflows/lint.yml) [![Depfu](https://badges.depfu.com/badges/6c7775918ccc8647160750e168617a65/overview.svg)](https://depfu.com/github/laststance/vite-react-ts-extended?project_id=32682)
+# vite-react-ts-extended [![Typecheck](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/typecheck.yml/badge.svg)](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/typecheck.yml)[![Test](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/test.yml/badge.svg)](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/test.yml)[![Lint](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/lint.yml/badge.svg)](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/lint.yml)[![Build](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/build.yml/badge.svg)](https://github.com/Chanki-Min/vite-template-react-icethief/actions/workflows/build.yml)
 
 > My CRA alternative.  
 > Create plain and lightweight React+TS programming environment with familiar pre-setup tooling  
@@ -9,9 +9,8 @@ This is the official [Vite](https://vitejs.dev/) [react-ts](https://stackblitz.c
 - [eslint-typescript](https://github.com/typescript-eslint/typescript-eslint) and [Prettier](https://prettier.io/) integration. Rules are 100% my personal setup 💅
 - [Jest](https://jestjs.io/), [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/), [MSW](https://mswjs.io/)
 - [tailwindcss](https://tailwindcss.com/)
+- [styled-components](https://styled-components.com/)
 - [Github Actions](https://github.com/features/actions)
-
-All npm package are keeping least release version powered by [Depfu](https://depfu.com/).
 
 # Installation
 
@@ -54,16 +53,7 @@ yarn serve     # launch server for production bundle in local
 
 # Background
 
-The evolution of the React framework is accelerating more than ever before.  
-[Next.js](https://nextjs.org/), [Remix](https://remix.run/), [RedwoodJS](https://redwoodjs.com/), [Gatsby](https://www.gatsbyjs.com/), [Blitz](https://blitzjs.com/) etc...
-
-Ahthough I still need plain React programming starter some reason. (.e.g Demo, Experiment like Deep Dive React Core.)  
-So far, [create-react-app](https://github.com/facebook/create-react-app) **was** it.  
-In short, [create-react-app](https://github.com/facebook/create-react-app) development couldn't say active. Please read the [Issue](https://github.com/facebook/create-react-app/issues/11180) in details.
-
-So I created an alternative to [create-react-app](https://github.com/facebook/create-react-app) for myself, based on [Vite](https://github.com/facebook/create-react-app).  
-This project contains my very opinionted setup,  
-but I hope it will be a useful tool for people who have similar needs to mine! 😀
+This is forked template from https://github.com/laststance/vite-react-ts-extended/actions/workflows/build.yml, and more!
 
 # License
 
