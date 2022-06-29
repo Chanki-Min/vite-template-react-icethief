@@ -4,10 +4,6 @@
 > Create plain and lightweight React+TS programming environment with familiar pre-setup tooling  
 > eslint/prettier, jest/TS/react-testing-library/msw, tailwindcss, CI.
 
-## [Try this Online!](https://codesandbox.io/s/laststance-vite-react-ts-extended-je09qc?file=/src/App.tsx)
-
-<img src="https://digital3.nyc3.cdn.digitaloceanspaces.com/ext.png" />
-
 This is the official [Vite](https://vitejs.dev/) [react-ts](https://stackblitz.com/edit/vitejs-vite-is3dmk?file=index.html&terminal=dev) template(`npm init vite@latest myapp -- --template react-ts`) and some extended setup.
 
 - [eslint-typescript](https://github.com/typescript-eslint/typescript-eslint) and [Prettier](https://prettier.io/) integration. Rules are 100% my personal setup 💅
@@ -20,7 +16,7 @@ All npm package are keeping least release version powered by [Depfu](https://dep
 # Installation
 
 ```
-npx degit laststance/vite-react-ts-extended myapp
+npx degit Chanki-Min/vite-template-react-icethief
 ```
 
 ### yarn
@@ -56,7 +52,6 @@ yarn clean     # remove 'node_modules' 'yarn.lock' 'dist' completely
 yarn serve     # launch server for production bundle in local
 ```
 
-
 # Background
 
 The evolution of the React framework is accelerating more than ever before.  
@@ -73,24 +68,3 @@ but I hope it will be a useful tool for people who have similar needs to mine! �
 # License
 
 MIT
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://ryota-murakami.github.io/"><img src="https://avatars1.githubusercontent.com/u/5501268?s=400&u=7bf6b1580b95930980af2588ef0057f3e9ec1ff8&v=4?s=100" width="100px;" alt=""/><br /><sub><b>ryota-murakami</b></sub></a><br /><a href="https://github.com/laststance/vite-react-ts-extended/commits?author=ryota-murakami" title="Code">💻</a> <a href="https://github.com/laststance/vite-react-ts-extended/commits?author=ryota-murakami" title="Documentation">📖</a> <a href="https://github.com/laststance/vite-react-ts-extended/commits?author=ryota-murakami" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://hung.dev"><img src="https://avatars.githubusercontent.com/u/8603085?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hung Viet Nguyen</b></sub></a><br /><a href="https://github.com/laststance/vite-react-ts-extended/commits?author=nvh95" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
